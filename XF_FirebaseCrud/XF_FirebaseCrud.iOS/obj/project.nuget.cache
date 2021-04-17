@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Gie4dqAOmCbQmgpVM3g4FRqTqO8JcJY8m5yVHUE2DbzB7hbjMNvTMQFSA/2jpz4YUNDP7xJRWJNUtTv22Uu63w==",
+  "success": true,
+  "projectFilePath": "D:\\Estudos\\Curso C#\\Xamarin\\Projects\\XF_FirebaseCrud\\XF_FirebaseCrud\\XF_FirebaseCrud.iOS\\XF_FirebaseCrud.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JIDD Sistemas - Dev\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Users\\JIDD Sistemas - Dev\\.nuget\\packages\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}

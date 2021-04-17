@@ -1,0 +1,16 @@
+D:\Estudos\Curso C#\Xamarin\Projects\XF_FirebaseCrud\XF_FirebaseCrud\XF_FirebaseCrud\bin\Debug\netstandard2.0\XF_FirebaseCrud.deps.json
+D:\Estudos\Curso C#\Xamarin\Projects\XF_FirebaseCrud\XF_FirebaseCrud\XF_FirebaseCrud\bin\Debug\netstandard2.0\XF_FirebaseCrud.dll
+D:\Estudos\Curso C#\Xamarin\Projects\XF_FirebaseCrud\XF_FirebaseCrud\XF_FirebaseCrud\bin\Debug\netstandard2.0\ref\XF_FirebaseCrud.dll
+D:\Estudos\Curso C#\Xamarin\Projects\XF_FirebaseCrud\XF_FirebaseCrud\XF_FirebaseCrud\bin\Debug\netstandard2.0\XF_FirebaseCrud.pdb
+D:\Estudos\Curso C#\Xamarin\Projects\XF_FirebaseCrud\XF_FirebaseCrud\XF_FirebaseCrud\obj\Debug\netstandard2.0\XF_FirebaseCrud.csprojAssemblyReference.cache
+D:\Estudos\Curso C#\Xamarin\Projects\XF_FirebaseCrud\XF_FirebaseCrud\XF_FirebaseCrud\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Estudos\Curso C#\Xamarin\Projects\XF_FirebaseCrud\XF_FirebaseCrud\XF_FirebaseCrud\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Estudos\Curso C#\Xamarin\Projects\XF_FirebaseCrud\XF_FirebaseCrud\XF_FirebaseCrud\obj\Debug\netstandard2.0\Views\ContatosView.xaml.g.cs
+D:\Estudos\Curso C#\Xamarin\Projects\XF_FirebaseCrud\XF_FirebaseCrud\XF_FirebaseCrud\obj\Debug\netstandard2.0\Views\LoginView.xaml.g.cs
+D:\Estudos\Curso C#\Xamarin\Projects\XF_FirebaseCrud\XF_FirebaseCrud\XF_FirebaseCrud\obj\Debug\netstandard2.0\XF_FirebaseCrud.AssemblyInfoInputs.cache
+D:\Estudos\Curso C#\Xamarin\Projects\XF_FirebaseCrud\XF_FirebaseCrud\XF_FirebaseCrud\obj\Debug\netstandard2.0\XF_FirebaseCrud.AssemblyInfo.cs
+D:\Estudos\Curso C#\Xamarin\Projects\XF_FirebaseCrud\XF_FirebaseCrud\XF_FirebaseCrud\obj\Debug\netstandard2.0\XF_FirebaseCrud.csproj.CoreCompileInputs.cache
+D:\Estudos\Curso C#\Xamarin\Projects\XF_FirebaseCrud\XF_FirebaseCrud\XF_FirebaseCrud\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Estudos\Curso C#\Xamarin\Projects\XF_FirebaseCrud\XF_FirebaseCrud\XF_FirebaseCrud\obj\Debug\netstandard2.0\XF_FirebaseCrud.dll
+D:\Estudos\Curso C#\Xamarin\Projects\XF_FirebaseCrud\XF_FirebaseCrud\XF_FirebaseCrud\obj\Debug\netstandard2.0\ref\XF_FirebaseCrud.dll
+D:\Estudos\Curso C#\Xamarin\Projects\XF_FirebaseCrud\XF_FirebaseCrud\XF_FirebaseCrud\obj\Debug\netstandard2.0\XF_FirebaseCrud.pdb
